@@ -1,0 +1,45 @@
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.deps.json
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.dll
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\ref\AppBaseXf.dll
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.pdb
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.csprojAssemblyReference.cache
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\Pages\UsuarioCadastroPage.xaml.g.cs
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfoInputs.cache
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfo.cs
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.dll
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\ref\AppBaseXf.dll
+D:\Turmas Senac SJR\Atividades\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.pdb
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.csprojAssemblyReference.cache
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\Pages\UsuarioCadastroPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.csproj.CoreCompileInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfoInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfo.cs
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\ref\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.pdb
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.deps.json
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\ref\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.pdb
+C:\Users\6tres-6\Desktop\Exercicios xamarin\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.deps.json
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\ref\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\bin\Debug\netstandard2.0\AppBaseXf.pdb
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.csprojAssemblyReference.cache
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\Pages\UsuarioCadastroPage.xaml.g.cs
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.csproj.CoreCompileInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfoInputs.cache
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.AssemblyInfo.cs
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\ref\AppBaseXf.dll
+C:\Users\6tres-6\Desktop\Exercicios_Xamarin_interface\AppBaseXf\AppBaseXf\AppBaseXf\obj\Debug\netstandard2.0\AppBaseXf.pdb

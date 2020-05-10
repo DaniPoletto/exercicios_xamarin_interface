@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppBaseXf.Pages.UsuarioCadastroPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="16">
+                <Label Text="Cadastro" 
+                       FontSize="Title"
+                       Padding="0,0,40,0"/>
+                <Label Text="Nome" />
+                <Entry Placeholder="Entre com o seu nome"/>
+                <Label Text="E-mail" />
+                <Entry Placeholder="Entre com o seu e-mail"/>
+                <Label Text="Telefone" />
+                <Entry Placeholder="Entre com o seu telefone"
+                       Keyboard="Numeric"/>
+                <Label Text="Senha" />
+                <ScrollView Orientation="Horizontal"
+                            HorizontalOptions="FillAndExpand">
+                    <StackLayout Orientation="Horizontal"
+                                 HorizontalOptions="CenterAndExpand">
+                        <Entry Placeholder="Entre com o sua senha"
+                               IsPassword="True"/>
+                        <Entry Placeholder="Confirme a sua senha"
+                               IsPassword="True"/>
+                    </StackLayout>
+                </ScrollView>
+                <StackLayout Orientation="Horizontal"                  
+                             VerticalOptions="End">
+                    <Button Text="Fechar" />
+                    <Button Text="Salvar" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

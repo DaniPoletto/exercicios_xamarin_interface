@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AppBaseXf.Pages.LoginPage">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <StackLayout>
+                <Image Source="" />
+            </StackLayout>
+
+            <StackLayout>
+                <Entry x:Name="txt_email" Placeholder="E-mail" />
+                <Entry x:Name="txt_senha" Placeholder="Senha" IsPassword="True" />
+            
+                <Button x:Name="btn_Logar" Text="Entre" Clicked="btn_Logar_Clicked"/>
+                <Label Text="ou" VerticalOptions="Center" HorizontalOptions="CenterAndExpand"/>
+                <Button x:Name="btn_Cadastro" Text="Registre-se" Clicked="btn_Cadastro_Clicked"/>
+            </StackLayout>
+            
+            <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center">
+                <Label Text="Ignorar" Padding="10"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
